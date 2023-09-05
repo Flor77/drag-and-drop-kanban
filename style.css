@@ -82,6 +82,7 @@
 
   overflow: scroll;
   height: 100%;
+  word-wrap: break-word;
 }
 
 .heading {
@@ -116,6 +117,7 @@
 
   font-size: 16px;
   cursor: move;
+  overflow: hidden;
 }
 
 .is-dragging {
